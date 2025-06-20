@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "clsx": "^2.1.1",
+    "mongoose": "^8.16.0",
     "motion": "^12.18.1",
     "next": "15.3.3",
+    "nodemailer": "^7.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "simplex-noise": "^4.0.3",
